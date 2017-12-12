@@ -1,3 +1,3 @@
-# git.gihub
+# git.gitub
 test
 test1
